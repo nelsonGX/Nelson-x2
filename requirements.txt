@@ -1,0 +1,5 @@
+Pillow
+discord.py
+python-dotenv
+google-generativeai
+python-Levenshtein
